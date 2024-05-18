@@ -5,8 +5,6 @@
 - 🌟 Completed 30days of Google Cloud Challenge.
 - 💡 Presented as a speaker at Google’s Kotlin Compose Camp Program, Pune.
 - 🚀 Navigating UI/UX, Augmented Reality, Open-source contributions.
-- 📄 Know about my experiences <a href="[https://www.example.com](https://drive.google.com/drive/folders/1aI7KixRsQfgyV_TDtmmvSUt3Z0JRI2Ry?usp=sharing]">here</a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
