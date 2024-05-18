@@ -1,4 +1,4 @@
-![logo](https://github.com/MangeshK63/Mangesh/blob/main/Black%20and%20Purple%20Futuristic%20Technology%20Banner%20Landscape.png)
+![logo](https://github.com/MangeshK63/MangeshK63/blob/main/Black%20and%20Purple%20Futuristic%20Technology%20Banner%20Landscape%20(72%20x%2025%20in).png)
 <h1 align="center">Hi there 👋, I'm Mangesh Kadam</h1>
 <h3 align="center">Aspiring Software Engineer | UI/UX Designer | AR/VR Enthusiast</h3>
 
