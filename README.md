@@ -2,8 +2,9 @@
 <h1 align="center">Hi there 👋, I'm Mangesh Kadam</h1>
 <h3 align="center">Aspiring Software Engineer | AR/VR Enthusiast</h3>
 
-- 📄 Completed 30days of Google Cloud Challenge.
-- 📄 Presented as a speaker at Google’s Kotlin Compose Camp Program, Pune.
+- 🌟 Completed 30days of Google Cloud Challenge.
+- 💡 Presented as a speaker at Google’s Kotlin Compose Camp Program, Pune.
+- 🚀 Navigating UI/UX, Augmented Reality, Open-source contributions.
 - 📄 Know about my experiences <a href="[https://www.example.com](https://drive.google.com/drive/folders/1aI7KixRsQfgyV_TDtmmvSUt3Z0JRI2Ry?usp=sharing]">here</a>
 
 
