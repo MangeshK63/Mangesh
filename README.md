@@ -1,8 +1,11 @@
 ![logo](https://github.com/MangeshK63/MangeshK63/blob/main/Black%20and%20Purple%20Futuristic%20Technology%20Banner%20Landscape%20(72%20x%2025%20in).png)
 <h1 align="center">Hi there 👋, I'm Mangesh Kadam</h1>
-<h3 align="center">Aspiring Software Engineer | UI/UX Designer | AR/VR Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | AR/VR Enthusiast</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1aI7KixRsQfgyV_TDtmmvSUt3Z0JRI2Ry?usp=sharing](https://drive.google.com/drive/folders/1aI7KixRsQfgyV_TDtmmvSUt3Z0JRI2Ry?usp=sharing)
+- 📄 Completed 30days of Google Cloud Challenge.
+- 📄 Presented as a speaker at Google’s Kotlin Compose Camp Program, Pune.
+- 📄 Know about my experiences <a href="[https://www.example.com](https://drive.google.com/drive/folders/1aI7KixRsQfgyV_TDtmmvSUt3Z0JRI2Ry?usp=sharing]">here</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
